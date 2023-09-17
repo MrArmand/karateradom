@@ -1,5 +1,5 @@
 ---
-header_brand: "IBUKI Karate"
+header_brand: "IBUKI Klub Kyokushin Karate"
 header_tagline_paragraph: "Przyjście Waszego dziecka do naszego klubu karate to nie tylko inwestycja w ich rozwój fizyczny i umiejętności obronne, ale także w ich rozwój osobisty i emocjonalny. Karate to nie tylko sport, to droga do wykształcenia pozytywnych cech charakteru, takich jak dyscyplina, samokontrola, czy szacunek wobec innych."
 header_button_cta:
   url: "#kontakt"
@@ -8,13 +8,15 @@ header_button_cta:
 header_button_more:
   url: "#dlaczego-warto"
   title: "Dowiedz się więcej"
-teaser_image: "images/pic1.jpg" 
+teaser_image: "images/pic3.jpg" 
 ---
 # Informacje
 
 Zapraszamy wszystkie dzieci od piątego roku życia.
-Zajęcia odbywają się we wtorki i czwartki o godzinie 17. 
-Pierwsze dwie lekcje są **darmowe**!
+Zajęcia odbywają się we wtorki i czwartki o godzinie 17 w szkole PSP 6 w Radomiu. 
+Pierwsze dwa treningi są **darmowe**!
+
+![Egzamin](images/pic4.jpg)
 
 **Adres:** 
 Publiczna Szkoła Podstawowa nr 6 z Oddziałami Integracyjnymi im. Orła Białego
@@ -31,7 +33,7 @@ Leszek Dorosz
 E-mail: leszek.dorosz@gmail.com
 Telefon: **508 261 836**
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+![Kontakt](images/pic5.jpg)
 
 ---
 
@@ -61,6 +63,8 @@ Karate to nie tylko trening, to także zabawa i przygoda! Dzieci uwielbiają ruc
 ![Turniej](images/pic2.jpg)
 
 Do zobaczenia w Dojo! Osu!
+
+![Sekcja](images/pic6.jpg)
 
 ---
 
