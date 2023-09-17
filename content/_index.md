@@ -2,17 +2,21 @@
 header_brand: "IBUKI Karate"
 header_tagline_paragraph: "Przyjście Waszego dziecka do naszego klubu karate to nie tylko inwestycja w ich rozwój fizyczny i umiejętności obronne, ale także w ich rozwój osobisty i emocjonalny. Karate to nie tylko sport, to droga do wykształcenia pozytywnych cech charakteru, takich jak dyscyplina, samokontrola, czy szacunek wobec innych."
 header_button_cta:
-  url: "#Kontakt"
+  url: "#kontakt"
   title: "Kontakt"
 
+header_button_more:
+  url: "#dlaczego-warto"
+  title: "Dowiedz się więcej"
 teaser_image: "images/pic1.jpg" 
 ---
 # Informacje
 
+Zapraszamy wszystkie dzieci od piątego roku życia.
 Zajęcia odbywają się we wtorki i czwartki o godzinie 17. 
-Pierwsza lekcja jest **darmowa**!
+Pierwsze dwie lekcje są **darmowe**!
 
-Adres: 
+**Adres:** 
 Publiczna Szkoła Podstawowa nr 6 z Oddziałami Integracyjnymi im. Orła Białego
 Rapackiego 24
 26-605 Radom
@@ -54,5 +58,9 @@ Nasza sekcja oferuje system stopni mistrzowskich, który umożliwia dziecku ści
 **Zabawa i przygoda:** 
 Karate to nie tylko trening, to także zabawa i przygoda! Dzieci uwielbiają ruch, a karate to doskonały sposób na wykorzystanie tej energii w pozytywny sposób.
 
-![Prototype Work](images/pic2.jpg)
+![Turniej](images/pic2.jpg)
+
+Do zobaczenia w Dojo! Osu!
+
+---
 
