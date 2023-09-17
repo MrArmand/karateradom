@@ -1,6 +1,6 @@
 ---
 header_brand: "IBUKI Karate"
-header_tagline_paragraph: "Przyjście Waszego dziecka do naszego klubu karate to nie tylko inwestycja w ich rozwój fizyczny i umiejętności obronne, ale także w ich rozwój osobisty i emocjonalny. Karate to nie tylko sport, to droga do wykształcenia pozytywnych cech charakteru, takich jak dyscyplina, samokontrola, i szacunek wobec innych."
+header_tagline_paragraph: "Przyjście Waszego dziecka do naszego klubu karate to nie tylko inwestycja w ich rozwój fizyczny i umiejętności obronne, ale także w ich rozwój osobisty i emocjonalny. Karate to nie tylko sport, to droga do wykształcenia pozytywnych cech charakteru, takich jak dyscyplina, samokontrola, czy szacunek wobec innych."
 header_button_cta:
   url: "#Kontakt"
   title: "Kontakt"

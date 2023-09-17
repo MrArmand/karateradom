@@ -24,22 +24,22 @@ title = "Ibuki Karate"
     copyright = "© Ibuki Karate"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "You don't even know what we can do for you!"
+    description = "Karate dla każdego dziecka!"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
-    favicon = "images/favicon.png"
+    favicon = "images/favicon.jpg"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/share-image.png"]
+    images = ["images/pic2.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Builders Of The Future, Inc."
+    title = "Ibuki Karate"
 
     # LICENSE: Hugo Product Launch by Jan Raasch is licensed
     # under Attribution 4.0 International (CC BY 4.0).
@@ -51,4 +51,4 @@ title = "Ibuki Karate"
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "karate, karate radom, karate dla dzieci, dzieci karate, karate rapackiego, karate jana pawła, sport dla dzieci, sporty dla dzieci"
